@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=f8dadc&text=seoltang&fontColor=ff6e96&stroke=79dafa&strokeWidth=2&desc=설탕&descAlign=64&descAlignY=28&animation=twinkling)
+
+# ✨ Web Frontend Developer <a href="https://velog.io/@seoltang" target="_blank"><img src="https://img.shields.io/badge/seoltang.log-20C997?style=flat&logo=velog&logoColor=white"/></a>
+
+![seoltang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltang&hide=stars,issues&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltang&layout=compact&theme=dracula)](https://github.com/seoltang/github-readme-stats)
+
+</div>
 
 <!--
 **seoltang/seoltang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
