@@ -4,9 +4,9 @@
 
 # ✨ Web Frontend Developer <a href="https://velog.io/@seoltang" target="_blank"><img src="https://img.shields.io/badge/seoltang.log-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
-<!-- ![seoltang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltang&hide=stars,issues&show_icons=true&theme=dracula)
+![seoltang's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seoltang&hide=stars,issues&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltang&layout=compact&theme=dracula)](https://github.com/seoltang/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seoltang&layout=compact&theme=dracula)](https://github.com/seoltang/github-readme-stats)
 
 </div>
 
