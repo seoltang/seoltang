@@ -1,6 +1,8 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=f8dadc&text=seoltang&fontColor=ff6e96&stroke=79dafa&strokeWidth=2&desc=설탕&descAlign=64&descAlignY=28&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=f8dadc&text=seoltang&fontColor=f3717d&stroke=79dafa&strokeWidth=2&desc=설탕&descAlign=64&descAlignY=28&animation=twinkling) -->
+
+  <img src="https://user-images.githubusercontent.com/91963656/237046640-8b446946-0889-4b88-9b6d-943ba3da0328.png" alt="seoltang" width="300px" >
 
 # ✨ Web Frontend Developer <a href="https://velog.io/@seoltang" target="_blank"><img src="https://img.shields.io/badge/seoltang.log-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
