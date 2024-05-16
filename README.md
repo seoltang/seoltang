@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltang&layout=compact&theme=dracula&count_private=true)](https://github.com/seoltang/github-readme-stats)
 
+[![Solved.ac seoltang](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoltang)](https://solved.ac/seoltang)
+
 </div>
 
 <!--
